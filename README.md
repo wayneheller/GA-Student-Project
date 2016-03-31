@@ -1,7 +1,7 @@
 ### Project Description 
 
 **What is the question you hope to answer?**
-What solar factors best predict an increase in geomagnetic activity?
+What factors such as sunspot activity best predict an increase in geomagnetic activity?
 
 **What data are you planning to use to answer that question?**
 - Selected Geomagnetic indices from the 
