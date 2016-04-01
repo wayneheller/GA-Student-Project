@@ -5,7 +5,7 @@ What factors such as sunspot activity are predictors of an increase in geomagnet
 
 **What data are you planning to use to answer that question?**
 - Selected Geomagnetic indices from the 
-[National Geomagnetic Data Center](ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/KP_AP/%23kp_ap.fmt%23)
+National Geomagnetic Data Center ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/KP_AP/%23kp_ap.fmt%23
 
 
 - Coronal Mass Ejection Catalog 
